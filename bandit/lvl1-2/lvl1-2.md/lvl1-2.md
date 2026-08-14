@@ -10,7 +10,7 @@ Và sau đó sử dụng tiếp tục sử dụng câu lệnh ssh
 ```bash 
 ssh -p 2220 bandit1@bandit.labs.overthewire.org 
 ``` 
-để truy cập vào `bandit1`\ 
+để truy cập vào `bandit1`
 Ta lại sử dụng lệnh 
 ```bash
 ls 
@@ -19,7 +19,7 @@ khi này nó hiện ra file có tên
 ```bash 
 -
 ```
-Tuy nhiên khi này nếu ta sử dụng `cat -`\ thì sẽ không đọc được do khi này nó sẽ hiểu thành `STDIN`
+Tuy nhiên khi này nếu ta sử dụng `cat -` thì sẽ không đọc được do khi này nó sẽ hiểu thành `STDIN`
 Để tránh xảy ra ta phải sử dụng 
 ```bash 
 cat ./-
