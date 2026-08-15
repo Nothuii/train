@@ -1,16 +1,20 @@
 # Goal 
-findout the password in the readable file in the inhere directory
+Find out the password in the human-readable file format in the inhere directory
 # Step
-Do the same thing like lvl3-4 when we are in the inhere directory 
+Performs the same steps as in lvl3-4, after entering the `inhere` directory 
 ```bash
 ls
 ```
-we can see
+we got the following output
 
 ![idk](alotof.png)
 
-These files are named from -file00 to -file09
+The directory contains files named from -file00 to -file09
 
-We will try to read from 00 to 09
+We will attempt to read each file from -file00 through -file09
 
-At the -file07 the system displays
+File -file07 contains human-readable text
+# Password 
+```bash 
+6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+```
