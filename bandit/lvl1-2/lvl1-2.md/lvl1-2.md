@@ -27,5 +27,5 @@ cat ./-
 Thì khi này máy sẽ hiểu là ta cần đọc file tên - 
 # Password 
 ```bash 
-6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
 ``` 
