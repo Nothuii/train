@@ -9,5 +9,3 @@ snort data.txt | uniq -u
 ```bash 
 EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 ```
-As we can see
- ![output](output.png)
